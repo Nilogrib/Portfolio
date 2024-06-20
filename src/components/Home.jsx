@@ -8,7 +8,7 @@ import {
 import { FaLinkedin } from "react-icons/fa";
 import { SiMongodb, SiExpress } from "react-icons/si";
 import { FaReact, FaNodeJs } from "react-icons/fa6";
-import { Typed } from 'react-typed';
+import ReactTyped from "react-typed";
 
 function Home() {
   return (
